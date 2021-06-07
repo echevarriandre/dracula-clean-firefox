@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.2.2",
+  "name": "Dracula Clean",
+  "author": "Xadden",
+  "theme": {
+    "colors": {
+      "tab_background_text": "#ddfbfe",
+      "tab_selected": "rgb(68, 71, 90)",
+      "tab_text": "rgb(251,251,254)",
+      "toolbar": "rgb(40, 42, 54)",
+      "toolbar_text": "rgb(248, 248, 242)",
+      "frame": "rgb(33, 34, 44)",
+      "toolbar_field": "rgb(33, 34, 44)",
+      "toolbar_field_text": "rgb(248, 248, 242)",
+      "tab_line": "transparent",
+      "popup": "rgb(40, 42, 54)",
+      "popup_text": "rgb(248, 248, 242)",
+      "popup_border": "transparent",
+      "popup_highlight": "rgb(189, 147, 249)",
+      "button_background_active": "rgb(68, 71, 90)",
+      "button_background_hover": "rgba(68, 71, 90, 0.69)",
+      "ntp_background": "rgb(40, 42, 54)",
+      "ntp_text": "rgb(248, 248, 242)",
+      "sidebar_border": "transparent",
+      "sidebar_highlight_text": "rgb(248, 248, 242)",
+      "sidebar_highlight": "rgba(189, 147, 249)",
+      "sidebar_text": "rgb(248, 248, 242)",
+      "sidebar": "rgb(40, 42, 54)",
+      "tab_background_separator": "transparent",
+      "toolbar_bottom_separator": "rgb(40, 42, 54)",
+      "toolbar_field_border_focus": "transparent",
+      "toolbar_field_border": "transparent",
+      "toolbar_field_focus": "rgb(68, 71, 90)",
+      "toolbar_top_separator": "transparent",
+      "toolbar_vertical_separator": "transparent",
+      "tab_loading": "rgb(189, 147, 249)"
+    }
+  }
+}
